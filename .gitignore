@@ -1,0 +1,7 @@
+*.npy
+*.pkl
+*.pt
+*.csv
+*.zip
+*.png
+/outputs/
